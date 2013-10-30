@@ -34,7 +34,7 @@ p16
 (dp17
 S'text'
 p18
-VYou: "This is Matt. How can I help you?"\u000a\u000aThem:"Hi I'm having trouble with..."\u000a\u000a[[My Account|account]]\u000a[[UK Software]]\u000a[[Blackboard]]\u000a[[Email]]\u000a[[My Phone]]\u000a[[myUK]]
+VI'm having trouble with..."\u000a\u000a[[My Account|account]]\u000a[[UK Software]]\u000a[[Blackboard]]\u000a[[Email]]\u000a[[My Phone]]\u000a[[myUK]]
 p19
 sS'tags'
 p20
@@ -77,7 +77,7 @@ Tiddler
 p33
 (dp34
 g18
-VYou: "What is the issue with your account?"\u000a\u000a[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]
+V[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]\u000a[["I want to change my display name"|displaynamechange]]
 p35
 sg20
 (lp36
@@ -217,8 +217,8 @@ g12
 I00
 sg13
 (lp76
-F101.33333333333405
-aF724.66666666666663
+F89.666666666667382
+aF688.0
 asg15
 (itiddlywiki
 Tiddler
@@ -333,8 +333,8 @@ g12
 I00
 sg13
 (lp114
-F425.6666666666672
-aF902.33333333333303
+F405.66666666666725
+aF875.66666666666617
 asg15
 (itiddlywiki
 Tiddler
@@ -537,7 +537,7 @@ p180
 (dp181
 S'text'
 p182
-V[[I'm no longer receiving emails|notreceivingemail]]\u000a[[I can't access my mailbox|cantaccessmailbox]]
+V[[I'm no longer receiving emails|notreceivingemail]]\u000a[[I can't access my mailbox|cantaccessmailbox]]\u000a[[I want to get access to a local exchange mailbox|activateexchange]]\u000a[[I want to forward emails from one account to another|emailforwarding]]
 p183
 sS'tags'
 p184
@@ -876,8 +876,8 @@ g12
 I00
 sg13
 (lp293
-F1406.6666666666674
-aF2589.9999999999968
+F1343.3333333333337
+aF2511.6666666666638
 asg15
 (itiddlywiki
 Tiddler
@@ -1076,8 +1076,8 @@ g12
 I00
 sg13
 (lp363
-F1401.6666666666665
-aF2188.333333333333
+F1349.9999999999993
+aF2189.9999999999995
 asg15
 (itiddlywiki
 Tiddler
@@ -1187,7 +1187,118 @@ sS'title'
 p398
 Vaddstudentbb
 p399
+sbsa(dp400
+g12
+I00
+sg13
+(lp401
+F714.99999999999989
+aF1641.6666666666672
+asg15
+(itiddlywiki
+Tiddler
+p402
+(dp403
+g388
+VGet approval from their business officer or anyone that is on the security liason spreadsheet. \u000a\u000ahttps:\u005c/\u005c/sharepoint.uky.edu/UKIT/ServiceDesk/_layouts/xlviewer.aspx?id=/UKIT/ServiceDesk/Department%20Standards/Security%20Liaison.xlsx&Source=https%3A%2F%2Fsharepoint%2Euky%2Eedu%2FUKIT%2FServiceDesk%2FDepartment%2520Standards%2FForms%2FAllItems%2Easpx&DefaultItemOpen=1&DefaultItemOpen=1\u000a\u000aIf it is approved login to TS-Blue and open the mailbox editor in C:\u005cscripts and follow the instructions to enable access\u000a
+p404
+sg390
+(lp405
+sg392
+g23
+((I2013
+I10
+I30
+I11
+I34
+I11
+I2
+I303
+I1
+tp406
+(dp407
+tp408
+Rp409
+sg397
+g409
+sg398
+Vactivateexchange
+p410
+sbsa(dp411
+g12
+I00
+sg13
+(lp412
+F919.99999999999989
+aF1418.333333333333
+asg15
+(itiddlywiki
+Tiddler
+p413
+(dp414
+g388
+VSeperate 
+p415
+sg390
+(lp416
+sg392
+g23
+((I2013
+I10
+I30
+I11
+I57
+I10
+I2
+I303
+I1
+tp417
+(dp418
+tp419
+Rp420
+sg397
+g420
+sg398
+Vemailforwarding
+p421
+sbsa(dp422
+g12
+I01
+sg13
+(lp423
+F860.00000000000045
+aF616.66666666666652
+asg15
+(itiddlywiki
+Tiddler
+p424
+(dp425
+g388
+VChange their display name on their user in active directory and change it in uams as well.\u000a
+p426
+sg390
+(lp427
+sg392
+g23
+((I2013
+I10
+I30
+I15
+I12
+I33
+I2
+I303
+I1
+tp428
+(dp429
+tp430
+Rp431
+sg397
+g431
+sg398
+Vdisplaynamechange
+p432
 sbsasS'scale'
-p400
+p433
 F0.60000000000000009
 ss.
