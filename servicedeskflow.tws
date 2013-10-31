@@ -77,7 +77,7 @@ Tiddler
 p33
 (dp34
 g18
-V[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]\u000a[["I want to change my display name"|displaynamechange]]
+V[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]\u000a[["I want to change my display name"|displaynamechange]]\u000a[[SAP role change|saprolechange]]
 p35
 sg20
 (lp36
@@ -607,8 +607,8 @@ g12
 I00
 sg13
 (lp206
-F715.00000000000011
-aF1369.9999999999998
+F713.33333333333348
+aF1371.6666666666665
 asg15
 (itiddlywiki
 Tiddler
@@ -927,7 +927,7 @@ p310
 (dp311
 S'text'
 p312
-VIs it an issue with the number(e.g. No dial tone) or the equipment (e.g. speakerphone is not working)?\u000a\u000a[[Number|numberissue]]\u000a[[Equipment|equipmentissue]]\u000a[[Reset voicemail pin|voicemailpinreset]]\u000a[[Voicemail has not been setup|voicemailsetup]]
+VIs it an issue with the number(e.g. No dial tone) or the equipment (e.g. speakerphone is not working)?\u000a\u000a[[Number|numberissue]]\u000a[[Equipment|equipmentissue]]\u000a[[Reset voicemail pin|voicemailpinreset]]\u000a[[Voicemail has not been setup|voicemailsetup]]\u000a[[Long Distance|longdistance]]
 p313
 sS'tags'
 p314
@@ -1263,7 +1263,7 @@ Vemailforwarding
 p421
 sbsa(dp422
 g12
-I01
+I00
 sg13
 (lp423
 F860.00000000000045
@@ -1298,7 +1298,118 @@ g431
 sg398
 Vdisplaynamechange
 p432
+sbsa(dp433
+g12
+I00
+sg13
+(lp434
+F1293.333333333333
+aF373.33333333333326
+asg15
+(itiddlywiki
+Tiddler
+p435
+(dp436
+g388
+VOpen the SAP role spreadsheet. Go to www.uky.edu/~mahudg2 for more details.\u000a\u000a
+p437
+sg390
+(lp438
+sg392
+g23
+((I2013
+I10
+I30
+I15
+I49
+I4
+I2
+I303
+I1
+tp439
+(dp440
+tp441
+Rp442
+sg397
+g442
+sg398
+Vsaprolechange
+p443
+sbsa(dp444
+g12
+I00
+sg13
+(lp445
+F1338.3333333333333
+aF2671.6666666666656
+asg15
+(itiddlywiki
+Tiddler
+p446
+(dp447
+g388
+VCheck in SAP to make sure they have long distance access.\u000a\u000aThey should have a green checkmark next to "Long Distance Access" in the box under UK Personal Data.\u000a\u000a[[They do not|grantlongdistanceaccess]] 
+p448
+sg390
+(lp449
+sg392
+g23
+((I2013
+I10
+I31
+I8
+I20
+I47
+I3
+I304
+I1
+tp450
+(dp451
+tp452
+Rp453
+sg397
+g453
+sg398
+Vlongdistance
+p454
+sbsa(dp455
+g12
+I00
+sg13
+(lp456
+F1566.666666666667
+aF2698.333333333333
+asg15
+(itiddlywiki
+Tiddler
+p457
+(dp458
+g388
+VThey need to have their business officer grant them long distance access 
+p459
+sg390
+(lp460
+sg392
+g23
+((I2013
+I10
+I31
+I8
+I24
+I0
+I3
+I304
+I1
+tp461
+(dp462
+tp463
+Rp464
+sg397
+g464
+sg398
+Vgrantlongdistanceaccess
+p465
 sbsasS'scale'
-p433
+p466
 F0.60000000000000009
 ss.
