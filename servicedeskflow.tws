@@ -797,7 +797,7 @@ g12
 I00
 sg13
 (lp266
-F854.99999999999977
+F879.99999999999955
 aF285.00000000000011
 asg15
 (itiddlywiki
@@ -1237,7 +1237,7 @@ Tiddler
 p413
 (dp414
 g388
-VSeperate 
+VSetup automatic email forwarding in...\u000a[[Local Exchange Mailbox|localexchangeforwarding]]\u000a[[Google Apps Gmail Account|gmailforwarding]]\u000a[[Office 365 Account|office365forwarding]]
 p415
 sg390
 (lp416
@@ -1409,7 +1409,118 @@ g464
 sg398
 Vgrantlongdistanceaccess
 p465
+sbsa(dp466
+g12
+I00
+sg13
+(lp467
+F1141.6666666666667
+aF1418.3333333333323
+asg15
+(itiddlywiki
+Tiddler
+p468
+(dp469
+g388
+VAccess your email via OWA by visiting exchange.uky.edu\u000a\u000aClick on options in the top right and then click "Create an inbox rule"\u000a\u000aClick new\u000a\u000aFor "When the message arrives, and:" select [Apply to all messages]\u000a\u000aFor "Do the following:" choose "redirect message to" and enter the email address you want all exchange email to forward to.
+p470
+sg390
+(lp471
+sg392
+g23
+((I2013
+I10
+I31
+I10
+I7
+I41
+I3
+I304
+I1
+tp472
+(dp473
+tp474
+Rp475
+sg397
+g475
+sg398
+Vlocalexchangeforwarding
+p476
+sbsa(dp477
+g12
+I00
+sg13
+(lp478
+F1141.6666666666665
+aF1589.9999999999998
+asg15
+(itiddlywiki
+Tiddler
+p479
+(dp480
+g388
+V1. Click on the gear icon in the top right corner after logging in and choose "settings"\u000a\u000a2. Click on the "Forwarding and POP/IMAP" tab\u000a\u000a3. Click on the "Add a forwarding address" button\u000a\u000a4. Enter the forwarding address and confirm
+p481
+sg390
+(lp482
+sg392
+g23
+((I2013
+I10
+I31
+I11
+I28
+I16
+I3
+I304
+I1
+tp483
+(dp484
+tp485
+Rp486
+sg397
+g486
+sg398
+Vgmailforwarding
+p487
+sbsa(dp488
+g12
+I00
+sg13
+(lp489
+F1145.0
+aF1246.6666666666665
+asg15
+(itiddlywiki
+Tiddler
+p490
+(dp491
+g388
+V1. Login to your office 365 email.  \u000a\u000a2. Click on the gear icon in the top right and select options\u000a\u000a3. In the account section (it should be there by default) click on the shortcut labeled "Forward your email"\u000a\u000a4. Enter the email you want to forward to in the text box under "Forward my email to:"
+p492
+sg390
+(lp493
+sg392
+g23
+((I2013
+I10
+I31
+I11
+I39
+I12
+I3
+I304
+I1
+tp494
+(dp495
+tp496
+Rp497
+sg397
+g497
+sg398
+Voffice365forwarding
+p498
 sbsasS'scale'
-p466
+p499
 F0.60000000000000009
 ss.
