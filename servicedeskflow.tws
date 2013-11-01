@@ -1,7 +1,7 @@
 (dp0
 S'buildDestination'
 p1
-VC:\u005cUsers\u005cmahudg2\u005cDocuments\u005cweb\u005cpulse\u005cpulse.html
+VC:\u005cUsers\u005cmahudg2\u005cDocuments\u005cweb\u005cServiceDesk Flowchart\u005cpulse.html
 p2
 sS'saveDestination'
 p3
@@ -24,8 +24,8 @@ I00
 sS'pos'
 p13
 (lp14
-F98.666666666666714
-aF874.33333333333348
+F93.666666666666757
+aF2224.3333333333339
 asS'passage'
 p15
 (itiddlywiki
@@ -106,8 +106,8 @@ g12
 I00
 sg13
 (lp43
-F665.33333333333394
-aF129.33333333333337
+F987.0000000000008
+aF64.333333333333357
 asg15
 (itiddlywiki
 Tiddler
@@ -143,8 +143,8 @@ g12
 I00
 sg13
 (lp54
-F873.00000000000136
-aF122.33333333333307
+F1198.0000000000014
+aF68.999999999999758
 asg15
 (itiddlywiki
 Tiddler
@@ -180,8 +180,8 @@ g12
 I00
 sg13
 (lp65
-F665.99999999999966
-aF545.66666666666663
+F982.6666666666664
+aF579.00000000000034
 asg15
 (itiddlywiki
 Tiddler
@@ -259,15 +259,15 @@ g12
 I00
 sg13
 (lp92
-F665.33333333333485
-aF281.66666666666623
+F990.33333333333485
+aF274.9999999999996
 asg15
 (itiddlywiki
 Tiddler
 p93
 (dp94
 g79
-VVisit ukam.uky.edu/acctinfo-test/Account/Login.aspx\u000aand enter their link blue account id. \u000aIf they don't have their account id attempt to find it using UAMS (portal->Enterprise Services->UAMS)\u000a\u000aHere you can see if their account is locked, or their password is expired.\u000a\u000a[[Their password is expired|passwordexpired]]
+VVisit ukam.uky.edu/acctinfo-test/Account/Login.aspx\u000aand enter their link blue account id. \u000aIf they don't have their account id attempt to find it using UAMS (portal->Enterprise Services->UAMS)\u000a\u000aHere you can see if their account is locked, or their password is expired.\u000a\u000a[[Their password is expired|passwordexpired]]\u000a[[Their account is locked|accountlocked]]
 p95
 sg81
 (lp96
@@ -296,8 +296,8 @@ g12
 I00
 sg13
 (lp103
-F1056.6666666666652
-aF127.6666666666667
+F1383.3333333333317
+aF81.000000000000028
 asg15
 (itiddlywiki
 Tiddler
@@ -333,8 +333,8 @@ g12
 I00
 sg13
 (lp114
-F405.66666666666725
-aF875.66666666666617
+F675.6666666666672
+aF1340.6666666666661
 asg15
 (itiddlywiki
 Tiddler
@@ -342,7 +342,7 @@ p115
 (dp116
 S'text'
 p117
-VWhat are you having trouble with?\u000a\u000a[["I can't find where to download software"|softwarelink]]\u000a[["I'm having trouble installing SAS"|sasinstructions]]\u000a[[Adobe Connect Pro]]\u000a[["Office no longer works-it keeps prompting me for a product key"|officeproductkey]]
+V[[Where do I download software|softwarelink]]\u000a[[I'm having trouble installing SAS|sasinstructions]]\u000a[[Adobe Connect Pro]]\u000a[["Office no longer works-it keeps prompting me for a product key"|officeproductkey]]
 p118
 sS'tags'
 p119
@@ -375,8 +375,8 @@ g12
 I00
 sg13
 (lp130
-F665.33333333333587
-aF702.66666666666674
+F935.33333333333587
+aF1167.6666666666667
 asg15
 (itiddlywiki
 Tiddler
@@ -412,15 +412,15 @@ g12
 I00
 sg13
 (lp141
-F677.00000000000011
-aF1137.6666666666672
+F952.00000000000011
+aF1657.6666666666672
 asg15
 (itiddlywiki
 Tiddler
 p142
 (dp143
 g117
-Vwww.uky.edu/ukit/help/software/sas\u000a\u000a
+Vwww.uky.edu/ukit/help/software/sas\u000a\u000a[[I have not received the SAS license after waiting over and hour after sending in the form|saslicense]]
 p144
 sg119
 (lp145
@@ -449,8 +449,8 @@ g12
 I00
 sg13
 (lp152
-F509.00000000000017
-aF2004.6666666666681
+F440.66666666666674
+aF3339.6666666666665
 asg15
 (itiddlywiki
 Tiddler
@@ -491,8 +491,8 @@ g12
 I00
 sg13
 (lp168
-F722.3333333333328
-aF2003.0000000000007
+F588.99999999999977
+aF3591.3333333333312
 asg15
 (itiddlywiki
 Tiddler
@@ -528,8 +528,8 @@ g12
 I00
 sg13
 (lp179
-F493.33333333333366
-aF1411.6666666666674
+F593.3333333333336
+aF2221.6666666666674
 asg15
 (itiddlywiki
 Tiddler
@@ -537,7 +537,7 @@ p180
 (dp181
 S'text'
 p182
-V[[I'm no longer receiving emails|notreceivingemail]]\u000a[[I can't access my mailbox|cantaccessmailbox]]\u000a[[I want to get access to a local exchange mailbox|activateexchange]]\u000a[[I want to forward emails from one account to another|emailforwarding]]
+V[[I'm no longer receiving emails|notreceivingemail]]\u000a[[I can't access my mailbox|cantaccessmailbox]]\u000a[[I want to get access to a local exchange mailbox|activateexchange]]\u000a[[I can't send emails|cantsendemail]]\u000a[[I want to forward emails from one account to another|emailforwarding]]
 p183
 sS'tags'
 p184
@@ -570,8 +570,8 @@ g12
 I00
 sg13
 (lp195
-F715.00000000000034
-aF1501.6666666666665
+F816.25000000000011
+aF2232.9166666666665
 asg15
 (itiddlywiki
 Tiddler
@@ -607,8 +607,8 @@ g12
 I00
 sg13
 (lp206
-F713.33333333333348
-aF1371.6666666666665
+F814.58333333333326
+aF2102.9166666666665
 asg15
 (itiddlywiki
 Tiddler
@@ -644,8 +644,8 @@ g12
 I00
 sg13
 (lp217
-F668.33333333333292
-aF840.00000000000011
+F938.33333333333292
+aF1305.0
 asg15
 (itiddlywiki
 Tiddler
@@ -686,8 +686,8 @@ g12
 I00
 sg13
 (lp233
-F673.33333333333417
-aF988.33333333333394
+F943.33333333333417
+aF1453.3333333333339
 asg15
 (itiddlywiki
 Tiddler
@@ -723,8 +723,8 @@ g12
 I00
 sg13
 (lp244
-F936.66666666666606
-aF938.33333333333314
+F1206.6666666666661
+aF1403.333333333333
 asg15
 (itiddlywiki
 Tiddler
@@ -760,8 +760,8 @@ g12
 I00
 sg13
 (lp255
-F929.99999999999955
-aF1096.6666666666665
+F1199.9999999999995
+aF1561.6666666666665
 asg15
 (itiddlywiki
 Tiddler
@@ -797,8 +797,8 @@ g12
 I00
 sg13
 (lp266
-F879.99999999999955
-aF285.00000000000011
+F1366.6666666666667
+aF245.00000000000028
 asg15
 (itiddlywiki
 Tiddler
@@ -839,8 +839,8 @@ g12
 I00
 sg13
 (lp282
-F666.66666666666617
-aF413.33333333333314
+F983.33333333333292
+aF446.66666666666629
 asg15
 (itiddlywiki
 Tiddler
@@ -876,8 +876,8 @@ g12
 I00
 sg13
 (lp293
-F1343.3333333333337
-aF2511.6666666666638
+F1164.9999999999989
+aF4439.9999999999945
 asg15
 (itiddlywiki
 Tiddler
@@ -918,8 +918,8 @@ g12
 I00
 sg13
 (lp309
-F466.66666666666669
-aF2276.6666666666656
+F288.33333333333297
+aF4204.9999999999964
 asg15
 (itiddlywiki
 Tiddler
@@ -960,8 +960,8 @@ g12
 I00
 sg13
 (lp325
-F901.66666666666663
-aF2136.6666666666656
+F1163.3333333333328
+aF3936.6666666666642
 asg15
 (itiddlywiki
 Tiddler
@@ -997,8 +997,8 @@ g12
 I00
 sg13
 (lp336
-F501.66666666666657
-aF2619.9999999999995
+F807.0833333333328
+aF2835.8333333333303
 asg15
 (itiddlywiki
 Tiddler
@@ -1039,8 +1039,8 @@ g12
 I00
 sg13
 (lp352
-F908.33333333333314
-aF2678.333333333333
+F1213.7500000000005
+aF2894.1666666666642
 asg15
 (itiddlywiki
 Tiddler
@@ -1076,8 +1076,8 @@ g12
 I00
 sg13
 (lp363
-F1349.9999999999993
-aF2189.9999999999995
+F1171.6666666666645
+aF4118.3333333333303
 asg15
 (itiddlywiki
 Tiddler
@@ -1113,8 +1113,8 @@ g12
 I00
 sg13
 (lp374
-F1346.6666666666665
-aF2348.333333333333
+F1168.3333333333317
+aF4276.6666666666642
 asg15
 (itiddlywiki
 Tiddler
@@ -1150,8 +1150,8 @@ g12
 I00
 sg13
 (lp385
-F686.66666666666652
-aF1846.6666666666663
+F643.33333333333326
+aF3213.3333333333335
 asg15
 (itiddlywiki
 Tiddler
@@ -1192,8 +1192,8 @@ g12
 I00
 sg13
 (lp401
-F714.99999999999989
-aF1641.6666666666672
+F816.24999999999966
+aF2372.916666666667
 asg15
 (itiddlywiki
 Tiddler
@@ -1229,8 +1229,8 @@ g12
 I00
 sg13
 (lp412
-F919.99999999999989
-aF1418.333333333333
+F1019.9999999999998
+aF2228.333333333333
 asg15
 (itiddlywiki
 Tiddler
@@ -1266,8 +1266,8 @@ g12
 I00
 sg13
 (lp423
-F860.00000000000045
-aF616.66666666666652
+F987.9166666666672
+aF895.00000000000023
 asg15
 (itiddlywiki
 Tiddler
@@ -1303,8 +1303,8 @@ g12
 I00
 sg13
 (lp434
-F1293.333333333333
-aF373.33333333333326
+F986.66666666666606
+aF746.6666666666664
 asg15
 (itiddlywiki
 Tiddler
@@ -1340,8 +1340,8 @@ g12
 I00
 sg13
 (lp445
-F1338.3333333333333
-aF2671.6666666666656
+F1163.7499999999984
+aF4612.4999999999964
 asg15
 (itiddlywiki
 Tiddler
@@ -1377,8 +1377,8 @@ g12
 I00
 sg13
 (lp456
-F1566.666666666667
-aF2698.333333333333
+F1403.3333333333321
+aF4615.4166666666642
 asg15
 (itiddlywiki
 Tiddler
@@ -1414,8 +1414,8 @@ g12
 I00
 sg13
 (lp467
-F1141.6666666666667
-aF1418.3333333333323
+F1241.6666666666672
+aF2228.3333333333321
 asg15
 (itiddlywiki
 Tiddler
@@ -1451,8 +1451,8 @@ g12
 I00
 sg13
 (lp478
-F1141.6666666666665
-aF1589.9999999999998
+F1241.666666666667
+aF2400.0
 asg15
 (itiddlywiki
 Tiddler
@@ -1488,8 +1488,8 @@ g12
 I00
 sg13
 (lp489
-F1145.0
-aF1246.6666666666665
+F1245.0000000000005
+aF2056.6666666666665
 asg15
 (itiddlywiki
 Tiddler
@@ -1520,7 +1520,155 @@ g497
 sg398
 Voffice365forwarding
 p498
+sbsa(dp499
+g12
+I00
+sg13
+(lp500
+F1379.9999999999998
+aF449.99999999999966
+asg15
+(itiddlywiki
+Tiddler
+p501
+(dp502
+g388
+VRemote into TS-Blue and find their user in Active Directory\u000aOpen their properties and choose unlock.\u000a\u000a
+p503
+sg390
+(lp504
+sg392
+g23
+((I2013
+I10
+I31
+I11
+I45
+I6
+I3
+I304
+I1
+tp505
+(dp506
+tp507
+Rp508
+sg397
+g508
+sg398
+Vaccountlocked
+p509
+sbsa(dp510
+g12
+I00
+sg13
+(lp511
+F1197.5
+aF1741.25
+asg15
+(itiddlywiki
+Tiddler
+p512
+(dp513
+g388
+VThe SAS license files are also located on the sharepoint at\u000a\u000ahttps:\u005c/\u005c/sharepoint.uky.edu/UKIT/ServiceDesk/default.aspx\u000a\u000aBelow the documents menu click on "Statistics software license files"\u000a\u000aLicenses for the server are not available to us but Joetta should have them.
+p514
+sg390
+(lp515
+sg392
+g23
+((I2013
+I10
+I31
+I11
+I55
+I59
+I3
+I304
+I1
+tp516
+(dp517
+tp518
+Rp519
+sg397
+g519
+sg398
+Vsaslicense
+p520
+sbsa(dp521
+g12
+I00
+sg13
+(lp522
+F817.5
+aF1957.5
+asg15
+(itiddlywiki
+Tiddler
+p523
+(dp524
+g388
+VA number of issues can cause this symptom. \u000a\u000a[[The user has sent more than 250 emails within 24 hours|broken250limit]]
+p525
+sg390
+(lp526
+sg392
+g23
+((I2013
+I11
+I1
+I9
+I44
+I15
+I4
+I305
+I1
+tp527
+(dp528
+tp529
+Rp530
+sg397
+g530
+sg398
+Vcantsendemail
+p531
+sbsa(dp532
+g12
+I00
+sg13
+(lp533
+F1018.75
+aF1936.25
+asg15
+(itiddlywiki
+Tiddler
+p534
+(dp535
+g388
+VIf the user has sent more than 250 emails they have broken the 250 emails per day throttle limit. Their limit can be increased by using the mailbox editor in C:\u005cscripts on TS-Blue \u000a\u000aMake sure the change went through by checking their throttle limit on the active directory information utility\u000a\u000ahttps:\u005c/\u005c/ukam.uky.edu/acctinfo-test/Account/acctinfo.aspx
+p536
+sg390
+(lp537
+sg392
+g23
+((I2013
+I11
+I1
+I9
+I45
+I29
+I4
+I305
+I1
+tp538
+(dp539
+tp540
+Rp541
+sg397
+g541
+sg398
+Vbroken250limit
+p542
 sbsasS'scale'
-p499
-F0.60000000000000009
+p543
+F0.80000000000000004
 ss.
