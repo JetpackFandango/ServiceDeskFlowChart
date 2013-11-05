@@ -77,7 +77,7 @@ Tiddler
 p33
 (dp34
 g18
-V[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]\u000a[["I want to change my display name"|displaynamechange]]\u000a[[SAP role change|saprolechange]]
+V[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]\u000a[["I want to change my display name"|displaynamechange]]\u000a[[SAP role change|saprolechange]]\u000a[[I need a users domain name changed|domainchange]]
 p35
 sg20
 (lp36
@@ -927,7 +927,7 @@ p310
 (dp311
 S'text'
 p312
-VIs it an issue with the number(e.g. No dial tone) or the equipment (e.g. speakerphone is not working)?\u000a\u000a[[Number|numberissue]]\u000a[[Equipment|equipmentissue]]\u000a[[Reset voicemail pin|voicemailpinreset]]\u000a[[Voicemail has not been setup|voicemailsetup]]\u000a[[Long Distance|longdistance]]
+VIs it an issue with the number(e.g. No dial tone) or the equipment (e.g. speakerphone is not working)?\u000a\u000a[[Number|numberissue]]\u000a[[Equipment|equipmentissue]]\u000a[[Reset voicemail pin|voicemailpinreset]]\u000a[[Voicemail has not been setup|voicemailsetup]]\u000a[[Long Distance|longdistance]]\u000a[[I need the name changed on my phone|phonenamechange]]
 p313
 sS'tags'
 p314
@@ -997,8 +997,8 @@ g12
 I00
 sg13
 (lp336
-F807.0833333333328
-aF2835.8333333333303
+F803.74999999999943
+aF2834.1666666666638
 asg15
 (itiddlywiki
 Tiddler
@@ -1006,7 +1006,7 @@ p337
 (dp338
 S'text'
 p339
-V[[I don't have access to the Faculty Services Tab|facultyservices]]
+V[[I don't have access to the Faculty Services Tab|facultyservices]]\u000a[[It just shows a blank screen where I should have access to a service|myukblankscreen]]\u000a[[PRD is not working|prdnotworking]]
 p340
 sS'tags'
 p341
@@ -1668,7 +1668,229 @@ g541
 sg398
 Vbroken250limit
 p542
+sbsa(dp543
+g12
+I00
+sg13
+(lp544
+F1221.6666666666663
+aF2718.3333333333326
+asg15
+(itiddlywiki
+Tiddler
+p545
+(dp546
+g388
+VIf the user is using Chrome or IE, have them install and run Firefox and see if the issue persists. myUK is most compatible with Firefox at the moment
+p547
+sg390
+(lp548
+sg392
+g23
+((I2013
+I11
+I1
+I10
+I43
+I56
+I4
+I305
+I1
+tp549
+(dp550
+tp551
+Rp552
+sg397
+g552
+sg398
+Vmyukblankscreen
+p553
+sbsa(dp554
+g12
+I00
+sg13
+(lp555
+F1193.333333333333
+aF3066.6666666666679
+asg15
+(itiddlywiki
+Tiddler
+p556
+(dp557
+g388
+VCreate a ticket for the Materials Management team
+p558
+sg390
+(lp559
+sg392
+g23
+((I2013
+I11
+I1
+I10
+I45
+I1
+I4
+I305
+I1
+tp560
+(dp561
+tp562
+Rp563
+sg397
+g563
+sg398
+Vprdnotworking
+p564
+sbsa(dp565
+g12
+I00
+sg13
+(lp566
+F1171.6666666666665
+aF3749.9999999999995
+asg15
+(itiddlywiki
+Tiddler
+p567
+(dp568
+g388
+VTo change the name associated with a phone number an IT service request needs to be submitted
+p569
+sg390
+(lp570
+sg392
+g23
+((I2013
+I11
+I4
+I16
+I22
+I47
+I0
+I308
+I0
+tp571
+(dp572
+tp573
+Rp574
+sg397
+g574
+sg398
+Vphonenamechange
+p575
+sbsa(dp576
+g12
+I00
+sg13
+(lp577
+F1196.6666666666665
+aF808.33333333333326
+asg15
+(itiddlywiki
+Tiddler
+p578
+(dp579
+g388
+V[[From AD to MC|adtomc]]\u000a[[MC to AD|mctoad]]
+p580
+sg390
+(lp581
+sg392
+g23
+((I2013
+I11
+I5
+I8
+I8
+I14
+I1
+I309
+I0
+tp582
+(dp583
+tp584
+Rp585
+sg397
+g585
+sg398
+Vdomainchange
+p586
+sbsa(dp587
+g12
+I00
+sg13
+(lp588
+F1479.9999999999998
+aF774.99999999999989
+asg15
+(itiddlywiki
+Tiddler
+p589
+(dp590
+g388
+VRemote into TS-Blue. Open Active Directory Users and Computers. \u000a\u000aRight click on ad.uky.edu and click find.\u000a\u000aSearch for the linkblue id of the user you are moving\u000a\u000aClick move..\u000a\u000aMove to "Users-ToMC"\u000a\u000aIn uams add the MC server account and remove the ad server account\u000a\u000a\u000aThen create 2 more service now tickets\u000a\u000a[[Service now tickets|adtomcservicenow]]\u000a
+p591
+sg390
+(lp592
+sg392
+g23
+((I2013
+I11
+I5
+I8
+I8
+I47
+I1
+I309
+I0
+tp593
+(dp594
+tp595
+Rp596
+sg397
+g596
+sg398
+Vadtomc
+p597
+sbsa(dp598
+g12
+I00
+sg13
+(lp599
+F1734.9999999999993
+aF771.66666666666686
+asg15
+(itiddlywiki
+Tiddler
+p600
+(dp601
+g388
+VCreate a parent ticket if it does not already exist with the following information\u000a\u000a1.	Create Service Now ticket.  This will be used as the \u201cparent\u201d ticket for subsequent actions.\u000aa.	Requestor:  Name of the authorized requestor\u000ab.	Type: applicable\u000ac.	category:  request\u000ad.	subcategory: domain/OU move\u000ae.	short description:  Move ID xxxxxxxx from AD to MC\u000af.	Priority:  5-No SLC\u000ag.	Long description:  :  Move ID xxxxxxxx from AD to MC (full name of person being moved and link blue ID)\u000ah.	Submit ticket.\u000a\u000a\u000aCreate a ticket for the SAP Security team\u000a\u000aCreate a \u201cchild\u201d Service Now ticket using your ticket as \u201cparent\u201d.\u000aa.	Requestor:  enter your name in this field.\u000a\u000ac.	category:  request\u000ad.	subcategory: domain/OU move\u000ae.	short description:  LDAP sync for ID xxxxxxxx\u000af.	Priority:  5-No SLC\u000ag.	Long description:  Process LDAP sync for (full name of person being moved and link blue ID) due to a domain move.\u000ah.	Submit ticket.\u000a\u000a\u000a2.	Second \u201cchild\u201d ticket needs to be created for Human Resource team to verify current SAP roles/groups. This team will resolve the ticket when completed.\u000a\u000aCreate a \u201cchild\u201d Service Now ticket using your ticket as \u201cparent\u201d.\u000aa.	Requestor:  enter your name in this field.\u000ab.	Type: self service\u000ac.	category:  request\u000ad.	subcategory: domain/OU move\u000ae.	Priority: 5-No SLC\u000af.	short description:  Domain move for ID xxxxxxxx from AD to MC\u000ag.	Long description:  Verification of correct SAP roles/AD groups need to be done for ID xxxxxxxx due to domain move.\u000ah.	Submit Ticket.\u000a\u000a
+p602
+sg390
+(lp603
+sg392
+g23
+((I2013
+I11
+I5
+I8
+I15
+I42
+I1
+I309
+I0
+tp604
+(dp605
+tp606
+Rp607
+sg397
+g607
+sg398
+Vadtomcservicenow
+p608
 sbsasS'scale'
-p543
-F0.80000000000000004
+p609
+F0.60000000000000009
 ss.
