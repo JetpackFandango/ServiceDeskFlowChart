@@ -1,7 +1,7 @@
 (dp0
 S'buildDestination'
 p1
-VC:\u005cUsers\u005cmahudg2\u005cDocuments\u005cweb\u005cServiceDesk Flowchart\u005cpulse.html
+VC:\u005cUsers\u005cmahudg2\u005cDocuments\u005cweb\u005cServiceDesk Flowchart\u005cservicedeskflor.html
 p2
 sS'saveDestination'
 p3
@@ -77,7 +77,7 @@ Tiddler
 p33
 (dp34
 g18
-V[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]\u000a[["I want to change my display name"|displaynamechange]]\u000a[[SAP role change|saprolechange]]\u000a[[I need a users domain name changed|domainchange]]\u000a
+V[["I forgot my password"|password reset]]\u000a[["My account is locked"|account locked]]\u000a[["I can't login"|can't login]]\u000a[["I can't login to certain sites"|certainsiteslogin]]\u000a[["I want to change my display name"|displaynamechange]]\u000a[[SAP role change|saprolechange]]\u000a[[I need a users domain name changed|domainchange]]\u000a[[Create New Accounts|createnewaccount]]
 p35
 sg20
 (lp36
@@ -1932,7 +1932,81 @@ sS'title'
 p623
 Vstylesheet
 p624
+sbsa(dp625
+g12
+I00
+sg13
+(lp626
+F1428.333333333333
+aF1003.3333333333331
+asg15
+(itiddlywiki
+Tiddler
+p627
+(dp628
+g613
+S''
+p629
+sg615
+(lp630
+sg617
+g23
+((I2013
+I11
+I5
+I15
+I58
+I45
+I1
+I309
+I0
+tp631
+(dp632
+tp633
+Rp634
+sg622
+g634
+sg623
+S'Untitled Passage 1'
+p635
+sbsa(dp636
+g12
+I01
+sg13
+(lp637
+F1899.9999999999998
+aF411.66666666666663
+asg15
+(itiddlywiki
+Tiddler
+p638
+(dp639
+g613
+VIn sap make sure there isn't already a user with the same first name, last name and DOB.\u000a\u000aIf not go into uams and create new profile.\u000a\u000aGenerate UKID then submit.\u000aSearch for this user using the UKID then click logins after selecting the user.\u000aSelect if they are Student/Faculty Staff/External etc. then click on generate loginID followed by create login.\u000a\u000aAdd AD and nims accounts.\u000a\u000aIf this is an external account add 
+p640
+sg615
+(lp641
+sg617
+g23
+((I2013
+I11
+I5
+I15
+I59
+I32
+I1
+I309
+I0
+tp642
+(dp643
+tp644
+Rp645
+sg622
+g645
+sg623
+Vcreatenewaccount
+p646
 sbsasS'scale'
-p625
+p647
 F0.60000000000000009
 ss.
